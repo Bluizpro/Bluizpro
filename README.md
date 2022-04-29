@@ -1,6 +1,6 @@
 ### Olá sou o Bruno 👋😎😎
 
-- 🔭 Eu estou estudando desenvolvimento fullStack
+- 🔭 sou um desenvolvedor fullStack
 
 
 <div align="center">
