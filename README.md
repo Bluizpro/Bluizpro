@@ -16,7 +16,7 @@
   <img align="center" alt="Bluizpro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bluizpro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
     <img align="center" alt="Bluizpro-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
-    <img align="center" alt="Bluizpro-Angula" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angula/angula-original.svg"> 
+    <img align="center" alt="Bluizpro-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg""> 
     
   <img align="center" alt="Bluizpro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Bluizpro-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
