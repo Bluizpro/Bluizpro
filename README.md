@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bluizpro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluizpro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<img align="right" height="150" src="https://i.imgflip.com/8zmpcf.gif"  />
+<!-- <img align="right" height="150" src="https://i.imgflip.com/8zmpcf.gif"  /> -->
    
   <div style="display: inline_block"><br>
   <img align="center" alt="Bluizpro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
