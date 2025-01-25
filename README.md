@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bluizpro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluizpro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- <img align="right" height="150" src="[https://i.imgflip.com/8zmpcf.gif](https://camo.githubusercontent.com/979ae760bfa2f776b718dedecde226b5e737a7e762776fe4ac5316173bfcd7cc/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a334e734f546831636d4e345a3252794d5870364d446c7863485269626d55305a334234647a5a73626d68304d6d46785932683465435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f5262444b61637a71576f76497567794a6d572f67697068792e676966)"  /> 
+ <img align="right" height="150" src="https://camo.githubusercontent.com/979ae760bfa2f776b718dedecde226b5e737a7e762776fe4ac5316173bfcd7cc/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a334e734f546831636d4e345a3252794d5870364d446c7863485269626d55305a334234647a5a73626d68304d6d46785932683465435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f5262444b61637a71576f76497567794a6d572f67697068792e676966"  /> 
    
   <div style="display: inline_block"><br>
   <img align="center" alt="Bluizpro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
